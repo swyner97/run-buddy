@@ -94,6 +94,15 @@ body {
       margin: 5px 0 15px 0;
   }
 
+  
+
+  .partner-hero h1 {
+    color: yellow;
+    font-style: italic;
+    font-size: 40px;
+
+  }
+
   section h3 {
       font-size: 30px;
       margin: 0px;
